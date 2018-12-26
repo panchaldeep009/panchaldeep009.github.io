@@ -1,1 +1,0 @@
-// Git Hub Repository Linking Test 'SwipeEventListener.js'
